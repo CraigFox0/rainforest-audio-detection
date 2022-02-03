@@ -44,4 +44,4 @@ For general communication, we chose Discord because it allows us to quickly comm
 We chose to use Github for version control because it is the industry standard for merging peoples’ code together, with all of us already having Github accounts. However, unfortunately, Github does not have rich support for merging .ipynb files; by default it only allows users to look at JSON representations of these files when merging. This is where ReviewNB allows viewing the differences between .ipynb files and commenting within .ipynb over possible changes.
 
 ## Best Practices
-We have picked these [best practices](Best%20Practices%20in%20Data%20Analysis) inspired by [Google's Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis) as particularly important for us to follow.
+We have picked these [best practices](Best%20Practices%20in%20Data%20Analysis.md) inspired by [Google's Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis) as particularly important for us to follow.
