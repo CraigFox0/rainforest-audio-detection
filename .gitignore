@@ -4,3 +4,4 @@ test
 .ipynb_checkpoints
 Data/train
 Data/test
+Data/resnest*
