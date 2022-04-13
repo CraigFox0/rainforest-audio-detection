@@ -6,4 +6,5 @@ Data/train
 Data/test
 Data/resnest*
 Data/*.png
-Data/*/*/*.png
+Data/Chromagram/train_fp/*.png
+Data/Chromagram/train_tp/*.png
