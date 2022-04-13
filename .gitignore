@@ -5,3 +5,5 @@ test
 Data/train
 Data/test
 Data/resnest*
+Data/*.png
+Data/*/*/*.png
